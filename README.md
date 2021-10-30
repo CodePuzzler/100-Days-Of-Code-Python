@@ -1,2 +1,10 @@
-# 100-Days-Of-Code-Python
-100 days of code challenge in Python
+<h1 align="center"> 
+#100DaysOfCode in Python
+</h1>
+<h5 align="center">
+Starting from : October 29, 2021
+</h5>
+
+<p align="center">
+I pledge to complete this 100 days of coding challenge.
+</p>
