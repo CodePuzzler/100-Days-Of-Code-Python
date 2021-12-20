@@ -1,7 +1,7 @@
 # Day13 of my 100DaysOfCode Challenge
 
 # Instructions
-# Read this the code in main.py
+# Read this the code in file_operations.py
 # Spot the problems 🐞.
 # Modify the code to fix the program.
 # Fix the code so that it works and passes the tests when you submit.
