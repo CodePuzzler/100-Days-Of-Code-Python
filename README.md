@@ -2,7 +2,7 @@
 #100DaysOfCode in Python
 </h1>
 <h5 align="center">
-Starting from : October 29, 2021
+Starting from : November 19, 2021
 </h5>
 
 <p align="center">
