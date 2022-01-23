@@ -3,7 +3,7 @@
 import requests
 
 # authentication key
-API_KEY = "b3b854a59e0c8da32cf8600b2782ca3a"
+API_KEY = "YOUR-OWN-API-KEY"
 OWN_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
 
 weather_params = {
