@@ -1,0 +1,1 @@
+# No Code, Day 42: HTML Intermediate. Just watched and refreshed my HTML skills.
